@@ -1,5 +1,5 @@
 import React from 'react';
-import FirstTask from './FirstTask/FirstTask'
+import FirstTask from './FirstTask'
 import SecondTask from './SecondTask';
 
 function App() {
